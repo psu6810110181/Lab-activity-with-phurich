@@ -18,3 +18,4 @@ function NoteList({ notes }: NoteListProps) {
     </ul>
   );
 }
+export default NoteList;
